@@ -1,6 +1,6 @@
 <h1 align="center">🚀🤘 HI, I'M <span style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">JOSHUA ESCAREZ</span> 💻🔥</h1>
 
-<h3 align="center">⚡ ASPIRING FULLSTACK WEB DEVELOPER | 🧠 TECH OBSESSIVE | 🎸 PHILIPPINES</h3>
+<h3 align="center">⚡ASPIRING FULLSTACK WEB DEVELOPER</h3>
 
 <!-- Dynamic Typing Animation -->
 <div align="center">
@@ -31,13 +31,13 @@
 
 ---
 
-### 🎯 **CURRENTLY ROCKING** 🔥
+### 🎯 **Currently Learning** 🔥
 
-- 🚀 **Leveling Up:** ASP.NET Core Microservices Architecture  
-- 🌐 Web Frameworks: ASP.NET Core MVC, Blazor & Razor Pages
-- 🎨 **Frontend Focus:** Mastering Interactive Blazor Components
-- 🛠 **Database:** Entity Framework & SQL Server
-- 🔐 **Security Focus:** OAuth2 & Identity Management  
+- 🚀 ASP.NET Core Microservices Architecture – Understanding how to build modular, scalable services  
+- 🌐 Web Development with ASP.NET Core MVC, Blazor & Razor Pages – Exploring different ways to build web apps
+- 🎨 Blazor Components – Learning to create dynamic and interactive UIs
+- 🛠 Entity Framework & SQL Server – Practicing data access and management
+- 🔐 Authentication & Security – Studying OAuth2 and Identity for secure user access
 
 ---
 
