@@ -1,4 +1,9 @@
-<h1 align="center">🚀🤘 HI, I'M <span style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">JOSHUA ESCAREZ</span> 💻🔥</h1>
+<h1 align="center">
+  🚀🤘 HI, I'M 
+  <span style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    JOSHUA ESCAREZ
+  </span> 💻🔥
+</h1>
 
 <h3 align="center">⚡ASPIRING FULLSTACK WEB DEVELOPER</h3>
 
@@ -7,37 +12,39 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=50&lines=Asp.NetCore+MVC+%7C+Blazor" alt="Typing SVG" />
 </div>
 
-
-
 ---
 
-### 🎸 **TECH STACK** 🛠️
+<h2 align="center">🧰 Tech Stack</h2>
 
-<p align="center" style="background: linear-gradient(145deg, #2d3436, #2b2b2b); padding: 1.5rem; border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-  <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png" alt="VS" title="Visual Studio"/>
-</p>
+<div align="center" style="transform: scale(1.5); display: inline-block;">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-6DB33F?style=for-the-badge&logo=entity-framework&logoColor=white" alt="Entity Framework" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+</div>
+
+
 
 ---
 
 ### 🎯 **Currently Learning** 🔥
 
 - 🚀 ASP.NET Core Microservices Architecture – Understanding how to build modular, scalable services  
-- 🌐 Web Development with ASP.NET Core MVC, Blazor & Razor Pages – Exploring different ways to build web apps
-- 🎨 Blazor Components – Learning to create dynamic and interactive UIs
-- 🛠 Entity Framework & SQL Server – Practicing data access and management
-- 🔐 Authentication & Security – Studying OAuth2 and Identity for secure user access
+- 🌐 Web Development with ASP.NET Core MVC, Blazor & Razor Pages – Exploring different ways to build web apps  
+- 🎨 Blazor Components – Learning to create dynamic and interactive UIs  
+- 🛠 Entity Framework & SQL Server – Practicing data access and management  
+- 🔐 Authentication & Security – Studying OAuth2 and Identity for secure user access  
 
 ---
 
