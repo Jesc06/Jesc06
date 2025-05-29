@@ -44,19 +44,3 @@
 
 
 
-### 💡 **KNOWLEDGE VAULT** 📚
-
-```csharp
-public class MySkills {
-  // Backend Arsenal
-  List<string> Backend = new() { "C#", ".NET 9", "Entity Framework" };
-  
-  // Frontend Toolkit
-  List<string> Frontend = new() { "Blazor", "Razor Pages", "HTML5", "CSS3" };
-  
-  // DevOps Stack
-  List<string> DevOps = new() { "Azure", "GitHub Actions", "Linux" };
-  
-  // Databases
-  List<string> Databases = new() { "SQL Server", "MySQL", "SQLite" };
-}
