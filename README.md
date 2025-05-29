@@ -5,7 +5,7 @@
   </span> 
 </h1>
 
-<h3 align="center">ASPIRING FULLSTACK WEB DEVELOPER</h3>
+<h3 align="center">ASPIRING .NET FULLSTACK WEB DEVELOPER</h3>
 
 <!-- Dynamic Typing Animation -->
 <div align="center">
