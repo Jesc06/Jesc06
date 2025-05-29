@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=50&lines=Asp.NetCore+MVC+%7C+Blazor" alt="Typing SVG" />
 </div>
 
----
+
 
 <h2 align="center">🧰 Tech Stack</h2>
 
@@ -32,7 +32,7 @@
 
 
 
----
+
 
 ### 🎯 **Currently Learning** 🔥
 
@@ -42,7 +42,7 @@
 - 🛠 Entity Framework & SQL Server – Practicing data access and management  
 - 🔐 Authentication & Security – Studying OAuth2 and Identity for secure user access  
 
----
+
 
 ### 💡 **KNOWLEDGE VAULT** 📚
 
