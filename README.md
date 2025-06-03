@@ -1,16 +1,42 @@
-## Hi there 👋
+<!-- Container to ensure everything is left-aligned -->
+<div style="text-align: left;">
 
-<!--
-**Jesc06/Jesc06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>
+    🚀HI, I'M 
+    <span style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      JOSHUA ESCAREZ
+    </span> 
+  </h1>
 
-Here are some ideas to get you started:
+  <h3>ASPIRING .NET FULLSTACK WEB DEVELOPER</h3>
+  
+  
+  
+  <h2>🧰 Tech Stack</h2>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div style="transform: scale(1.5); display: inline-block;">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
+    <img src="https://img.shields.io/badge/Entity%20Framework-6DB33F?style=for-the-badge&logo=entity-framework&logoColor=white" alt="EF Core" />
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />  
+  </div>
+
+
+  <h3>🎯 <strong>Currently Learning</strong> 🔥</h3>
+
+  <ul>
+    <li>🚀 ASP.NET Core Microservices Architecture – Understanding how to build modular, scalable services</li>
+    <li>🌐 Web Development with ASP.NET Core MVC, Blazor & Razor Pages – Exploring different ways to build web apps</li>
+    <li>🎨 Blazor Components – Learning to create dynamic and interactive UIs</li>
+    <li>🛠 Entity Framework & SQL Server – Practicing data access and management</li>
+    <li>🔐 Authentication & Security – Studying OAuth2 and Identity for secure user access</li>
+  </ul>
+
+</div>
