@@ -28,6 +28,43 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />  
   </div>
 
+<br>
+
+<div align="left" style="display: inline-block; transform: scale(1.1);">
+  <!-- .NET -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" alt=".NET logo" />
+  <img width="16" />
+  <!-- C# -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C# logo" />
+  <img width="16" />
+  <!-- Blazor (custom) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" height="50" alt="Blazor logo" />
+  <img width="16" />
+  <!-- Entity Framework (placeholder) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="Entity Framework / DB logo" />
+  <img width="16" />
+  <!-- SQL Server (placeholder) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="SQL Server logo" />
+  <img width="16" />
+  <!-- Azure -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="Azure logo" />
+  <img width="16" />
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git logo" />
+  <img width="16" />
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo" />
+  <img width="16" />
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3 logo" />
+  <img width="16" />
+  <!-- Bootstrap -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap logo" />
+</div>
+
+
+
+
 
   <h3>🎯 <strong>Currently Learning</strong> 🔥</h3>
 
@@ -38,6 +75,9 @@
     <li>🛠 Entity Framework & SQL Server – Practicing data access and management</li>
     <li>🔐 Authentication & Security – Studying OAuth2 and Identity for secure user access</li>
   </ul>
+
+<br>
+<br>
 
 
 <picture>
