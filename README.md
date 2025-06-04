@@ -2,13 +2,13 @@
 <div style="text-align: left;">
 
   <h1>
-    👋HI, I'M 
+    👋Hi, i'm 
     <span style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      JOSHUAESC
+      Joshuaesc
     </span> 
   </h1>
 
-  <h3>ASPIRING .NET FULLSTACK WEB DEVELOPER</h3>
+  <h3>Aspiring .Net Fullstack Web Developer</h3>
   
   
   
