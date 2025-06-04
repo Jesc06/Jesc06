@@ -2,9 +2,9 @@
 <div style="text-align: left;">
 
   <h1>
-    🚀HI, I'M 
+    👋HI, I'M 
     <span style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      JOSHUA ESCAREZ
+      JOSHUAESC
     </span> 
   </h1>
 
