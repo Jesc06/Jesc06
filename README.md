@@ -2,7 +2,7 @@
 <div style="text-align: left;">
 
   <h1>
-    👋Hi, i'm 
+    👋Hi, I'm 
     <span style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
       Joshuaesc
     </span> 
