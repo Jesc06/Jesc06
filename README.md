@@ -9,7 +9,26 @@
   </h1>
 
   <h3>Aspiring .Net Fullstack Web Developer</h3>
-  
+
+  <br>
+
+  <h3>✨ About Me</h3>
+
+<ul>
+  <li>👋 Hi, I'm esc — a passionate and self-taught <strong>.NET Full-Stack Developer</strong> in the making.</li>
+  <li>🛠️ Currently diving deep into <strong>ASP.NET Core MVC</strong>, building real-world web applications from scratch.</li>
+  <li>📚 I enjoy turning complex logic into clean, maintainable, and user-friendly solutions.</li>
+  <li>🧠 I strongly believe in learning by doing — solving problems one project, one bug, and one feature at a time.</li>
+  <li>🌐 Tech stack I’m growing with: <code>.NET</code>, <code>C#</code>, <code>MVC</code>, <code>SQL Server</code>, <code>Entity Framework</code>, <code>HTML</code>, <code>CSS</code>, and <code>Bootstrap</code>.</li>
+  <li>🚀 On a journey to become a full-stack developer — backend logic, frontend UI, and everything in between.</li>
+  <li>🎯 Long-term goal: Build meaningful apps and contribute to open-source projects that make a difference.</li>
+  <li>📬 Feel free to reach out! I’m always open to chat, collaborate, or just geek out about code — <a href="mailto:escarezjohnjoshuamanalo@gmail.com">escarezjohnjoshuamanalo@gmail.com</a></li>
+</ul>
+
+
+<p>Let’s connect and learn together 🚀</p>
+
+  <br>
   
   
   <h2>🧰 Tech Stack</h2>
