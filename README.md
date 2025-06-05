@@ -2,7 +2,7 @@
 <div style="text-align: left;">
 
   <h1>
-    👋Hi, I'm 
+    👋Hey there! I'm  
     <span style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
       Joshuaesc
     </span> 
@@ -81,10 +81,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
 </div>
 
-
-
-
-
+<br>
 
   <h3>🎯 <strong>Currently Learning</strong> 🔥</h3>
 
@@ -95,16 +92,6 @@
     <li>🛠 Entity Framework & SQL Server – Practicing data access and management</li>
     <li>🔐 Authentication & Security – Studying OAuth2 and Identity for secure user access</li>
   </ul>
-
-<br>
-<br>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jesc06/Jesc06/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jesc06/Jesc06/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Jesc06/Jesc06/output/pacman-contribution-graph.svg">
-</picture>
 
 
 
