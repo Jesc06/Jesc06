@@ -8,7 +8,7 @@
     </span> 
   </h1>
 
-  <h3>Aspiring .Net Fullstack Web Developer</h3>
+  <h3>Self-taught and caffeine-fueled .NET Full-Stack Developer</h3>
 
 
   <h3>✨ About Me</h3>
@@ -21,15 +21,16 @@
   <li>🌐 Tech stack I’m growing with: <code>.NET</code>, <code>C#</code>, <code>MVC</code>, <code>SQL Server</code>, <code>Entity Framework</code>, <code>HTML</code>, <code>CSS</code>, and <code>Bootstrap</code>.</li>
   <li>🚀 On a journey to become a full-stack developer — backend logic, frontend UI, and everything in between.</li>
   <li>🎯 Long-term goal: Build meaningful apps and contribute to open-source projects that make a difference.</li>
-  <li>📬 Feel free to reach out! I’m always open to chat, collaborate, or just geek out about code — <a href="mailto:escarezjohnjoshuamanalo@gmail.com">escarezjohnjoshuamanalo@gmail.com</a></li>
 </ul>
 
 
 <p>Let’s connect and learn together 🚀</p>
 
+
+
   
   
-  <h2>🧰 Tech Stack</h2>
+  <h2>🚀 Tech I'm vibin' with</h2>
   
 
   <div style="transform: scale(1.5); display: inline-block;">
@@ -90,6 +91,10 @@
     <li>🔐 Authentication & Security – Studying OAuth2 and Identity for secure user access</li>
   </ul>
 
+
+📬 Hit me up!
+I'm always down to collab, learn something new, or just geek out over code.  
+**📧** escarezjohnjoshuamanalo@gmail.com
 
 
 </div>
