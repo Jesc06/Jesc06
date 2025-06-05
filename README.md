@@ -10,7 +10,6 @@
 
   <h3>Aspiring .Net Fullstack Web Developer</h3>
 
-  <br>
 
   <h3>✨ About Me</h3>
 
@@ -28,7 +27,6 @@
 
 <p>Let’s connect and learn together 🚀</p>
 
-  <br>
   
   
   <h2>🧰 Tech Stack</h2>
@@ -47,7 +45,6 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />  
   </div>
 
-<br>
  
 <div align="left" style="display: inline-block; transform: scale(0.8);">
   <!-- .NET -->
@@ -81,7 +78,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
 </div>
 
-<br>
+
 
   <h3>🎯 <strong>Currently Learning</strong> 🔥</h3>
 
