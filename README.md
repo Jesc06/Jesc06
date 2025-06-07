@@ -1,4 +1,3 @@
-
 <!-- Container to ensure everything is left-aligned -->
 <div style="text-align: left;">
 
