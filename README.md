@@ -8,22 +8,6 @@
     </span> 
   </h1>
 
-  <h3>Self-taught and caffeine-fueled Web Developer ☕💻</h3>
-
-  <h3>✨ About Me</h3>
-
-<ul>
-  <li>👋 Hi, I'm esc — a passionate and self-taught developer who's always curious and learning new tech.</li>
-  <li>🛠️ Currently diving deep into <strong>ASP.NET Core MVC</strong>, building projects that sharpen my skills and understanding.</li>
-  <li>📚 I enjoy turning complex logic into clean, maintainable, and user-friendly solutions.</li>
-  <li>🧠 I strongly believe in learning by doing — solving problems one project, one bug, and one feature at a time.</li>
-  <li>🌐 Tech I'm learning and using: <code>C#</code>, <code>.NET</code>, <code>MVC</code>, <code>SQL Server</code>, <code>Entity Framework</code>, <code>HTML</code>, <code>CSS</code>, and <code>Bootstrap</code>.</li>
-  <li>🚀 I'm on a journey to build real-world apps and become confident in both backend and frontend development.</li>
-  <li>🎯 Long-term goal: Build meaningful apps and contribute to open-source projects that make a difference.</li>
-</ul>
-
-<p>Let’s connect and grow together 🚀</p>
-
 <h2>🚀 Tech I'm vibin' with</h2>
 
 <div style="transform: scale(1.5); display: inline-block;">
@@ -72,8 +56,13 @@
   <li>🔐 Exploring Authentication & Security (OAuth2, Identity)</li>
 </ul>
 
-📬 Hit me up!  
-I'm always down to collab, learn something new, or just geek out over code.  
-**📧** escarezjohnjoshuamanalo@gmail.com
+<h3>📬 Get in Touch</h3>
+
+I'm always open to collaborating on exciting projects, exploring new technologies, or just geeking out over code.  
+Feel free to reach out — I'd love to connect!
+
+<br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:escarezjohnjoshuamanalo@gmail.com)
 
 </div>
