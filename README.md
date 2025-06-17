@@ -40,7 +40,7 @@
 
 <h3>📬 Get in Touch</h3>
 
-I'm always open to collaborating on exciting projects, exploring new technologies, or just geeking out over code.  
+I'm always open to collaborating on exciting projects, exploring new technologies,  
 Feel free to reach out — I'd love to connect!
 
 <br>
