@@ -8,7 +8,7 @@
     </span> 
   </h1>
 
-<h2>🚀 Tech I'm vibin' with</h2>
+<h2>Tech Stack</h2>
 
 <div class="scale-[1.5] inline-block space-x-1">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
