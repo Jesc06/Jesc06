@@ -31,11 +31,10 @@
 <h3>🎯 <strong>Currently Learning</strong> 🔥</h3>
 
 <ul>
-  <li>🚀 ASP.NET Core Microservices Architecture – Learning how to build modular, scalable apps</li>
-  <li>🌐 Web Development with ASP.NET Core MVC, Blazor & Razor Pages</li>
-  <li>🎨 Building Blazor Components – for dynamic and interactive UIs</li>
-  <li>🛠 Deepening knowledge in Entity Framework & SQL Server</li>
-  <li>🔐 Exploring Authentication & Security (OAuth2, Identity)</li>
+<li>🚀 ASP.NET Core Clean Architecture  Structuring apps for scalability and maintainability</li>
+<li>🔐 Authentication & Authorization with ASP.NET Core Identity</li>
+<li>🎨 Building Dynamic UI with Blazor Components</li>
+<li>🛠 Mastering Entity Framework Core with SQL Server</li>
 </ul>
 
 <h3>📬 Get in Touch</h3>
