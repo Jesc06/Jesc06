@@ -28,14 +28,15 @@
 
 </div>
 
-<h3>🎯 <strong>Currently Learning</strong> 🔥</h3>
+<h3>📌 <strong>Ongoing Projects & Skills</strong> 🔥</h3>
 
 <ul>
-<li>🚀 ASP.NET Core Clean Architecture  Structuring apps for scalability and maintainability</li>
-<li>🔐 Authentication & Authorization with ASP.NET Core Identity</li>
-<li>🎨 Building Dynamic UI with Blazor Components</li>
-<li>🛠 Mastering Entity Framework Core with SQL Server</li>
+  <li>🚀 Implementing ASP.NET Core Clean Architecture  for modular and scalable solutions</li>
+  <li>🔐 Developing Secure Authentication & Authorization with ASP.NET Core Identity</li>
+  <li>🎨 Creating Interactive UIs using Blazor Components</li>
+  <li>🛠 Applying Entity Framework Core with SQL Server for efficient data access</li>
 </ul>
+
 
 <h3>📬 Get in Touch</h3>
 
