@@ -27,7 +27,7 @@
 
 </div>
 
-<h3>📌 <strong>Ongoing Projects & Skills</strong> 🔥</h3>
+<h3>📌 <strong>What I'm Working On</strong> 🔥</h3>
 
 <ul>
   <li>🚀 Implementing ASP.NET Core Clean Architecture  for modular and scalable solutions</li>
