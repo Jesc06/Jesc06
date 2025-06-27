@@ -44,6 +44,7 @@ Feel free to reach out — I'd love to connect!
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:escarezjohnjoshuamanalo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=escarezjohnjoshuamanalo@gmail.com
+)
 
 </div>
