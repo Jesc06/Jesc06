@@ -27,22 +27,13 @@
 
 </div>
 
-<h3>📌 <strong>What I'm Working On</strong> 🔥</h3>
-
-<ul>
-  <li>🚀 Implementing ASP.NET Core Clean Architecture  for modular and scalable solutions</li>
-  <li>🔐 Developing Secure Authentication & Authorization with ASP.NET Core Identity</li>
-  <li>🎨 Creating Interactive UIs using Blazor Components</li>
-  <li>🛠 Applying Entity Framework Core with SQL Server for efficient data access</li>
-</ul>
 
 
 <h3>📬 Get in Touch</h3>
 
 I'm always open to collaborating on exciting projects, exploring new technologies,  
-Feel free to reach out — I'd love to connect!
+Feel free to reach out I'd love to connect!
 
-<br>
 
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Joshuaesc)    [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/haruki.akane.649339)
 
