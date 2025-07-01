@@ -2,7 +2,7 @@
 <div style="text-align: left;">  
 
 
-<h2>Tech Stack</h2>
+<h2>🧰Tech Stack</h2>
 
 <div class="scale-[1.5] inline-block space-x-1">
   <img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core MVC" />
