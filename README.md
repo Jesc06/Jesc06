@@ -1,7 +1,6 @@
 <!-- Container to ensure everything is left-aligned -->   
 <div style="text-align: left;">  
 
-
 <h2>Tech Stack</h2>
 
 <div class="scale-[1.5] inline-block space-x-1">
